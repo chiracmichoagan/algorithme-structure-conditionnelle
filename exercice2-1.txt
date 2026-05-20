@@ -1,0 +1,19 @@
+Correction de l'exercie 2 avec la syntaxe 1.
+
+Algorithme                               exercice2;
+
+
+var:    age,annee: entiers;
+	a,b: entiers
+
+
+Début 
+		Afficher"Entrez Votre année de naisssance ...?";
+		saisir annee;
+
+		b <---- 2026 - a;
+		
+	si b < 10 alors : 
+ 	Afficher" Vous avez moins de 10 ans.";
+	Finsi
+	
