@@ -1,0 +1,32 @@
+Correction de l'exercice 4 avec la syntaxe 1 . 
+
+Algorithme                    exercice4;
+
+
+var:             a, b, difference : reels; 
+
+
+
+Début 
+
+
+		Afficher"Veillez entrer un nombre a ...?";
+		saisir a; 
+		Afficher"Veillez entrer un nombre b ...?";
+		saisir b;
+		
+		difference <----- a - b;
+
+
+
+	si difference >= 0 alors : 
+	Afficher difference;
+	finsi
+	
+	si difference < 0 alors : 
+	Afficher -1 * difference;
+	finsi
+
+
+Fin
+ 
