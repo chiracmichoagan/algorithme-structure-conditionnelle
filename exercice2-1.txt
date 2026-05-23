@@ -4,7 +4,7 @@ Algorithme                               exercice2;
 
 
 var:    age,annee: entiers;
-	a,b: entiers
+	    a,b: entiers;
 
 
 Début 
