@@ -1,0 +1,32 @@
+Correction de l'exercie 1 avec la sctructure alternative. 
+
+Algorithme                      comparaison;
+
+
+var               a,b: entiers;
+
+
+
+
+Début 
+
+
+		Afficher"Entrez le nombre a ..?";
+		saisir a;
+		Afficher"Entrez le nombre b ..?";
+		saisir b;
+
+	si a > b alors : 
+	Afficher"Le nombre a est le plus grand.";
+	sinon
+		si b > a alors :
+		Afficher"Le nombre b est le plus grand.";
+	sinon
+		si a = b alors :
+		Afficher"Les nombres sont égaux, il y a pas de plus grand."
+	Finsi
+
+
+
+
+Fin
